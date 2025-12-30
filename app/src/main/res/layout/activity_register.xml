@@ -1,0 +1,79 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            style="@style/ScreenTitle"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Name -->
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            style="@style/AppInput"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Contact -->
+        <EditText
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contact"
+            android:inputType="textEmailAddress"
+            style="@style/AppInput"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Password -->
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"
+            style="@style/AppInput"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- User Type -->
+        <AutoCompleteTextView
+            android:id="@+id/etUserType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Select User Type"
+            android:inputType="none"
+            style="@style/AppInput"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Organization -->
+        <EditText
+            android:id="@+id/etOrganization"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Organization"
+            android:inputType="text"
+            style="@style/AppInput"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- Register Button -->
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            style="@style/PrimaryButton"/>
+
+    </LinearLayout>
+</ScrollView>

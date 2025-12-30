@@ -1,0 +1,53 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Admin Dashboard" style="@style/ScreenTitle"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="24dp" />
+
+        <!-- 1. View New Salesman -->
+        <Button
+            android:id="@+id/btnPendingRequests"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Pending Requests" style="@style/PrimaryButton"
+            android:layout_marginBottom="16dp" />
+
+        <!-- 2. View Sell Report -->
+        <Button
+            android:id="@+id/btnSellReport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Sales Report" style="@style/PrimaryButton"
+            android:layout_marginBottom="16dp" />
+
+        <!-- 3. Add New Stock -->
+        <Button
+            android:id="@+id/btnAddStock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add New Stock" style="@style/PrimaryButton"
+            android:layout_marginBottom="16dp" />
+
+        <!-- 4. View Current Stock -->
+        <Button
+            android:id="@+id/btnViewStock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Current Stock" style="@style/PrimaryButton"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

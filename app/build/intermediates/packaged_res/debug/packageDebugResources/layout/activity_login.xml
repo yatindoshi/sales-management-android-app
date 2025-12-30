@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="contact"
+        android:inputType="textEmailAddress"
+        style="@style/AppInput"/>
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword" style="@style/AppInput" />
+
+    <AutoCompleteTextView
+        android:id="@+id/etUserType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Select User Type"
+        android:inputType="none"
+        android:focusable="false"
+        android:clickable="true"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login" style="@style/PrimaryButton"/>
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register" style="@style/PrimaryButton"/>
+</LinearLayout>

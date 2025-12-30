@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cgal.salesmanagement.app-mergeDebugResources-37:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/yatin/.gradle/caches/8.13/transforms/674d0feaa531944ddb027cd0eb3bab66/transformed/appcompat-1.7.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

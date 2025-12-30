@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_view_salesman.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_view_salesman.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_dashboard.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_login.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_view_stock.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_view_stock.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_sell_report.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_sell_report.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_pending_requests.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_pending_requests.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_register.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_add_stock.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_add_stock.xml"
+    },
+    {
+        "merged": "com.cgal.salesmanagement.app-debug-39:/layout_activity_register.xml.flat",
+        "source": "com.cgal.salesmanagement.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_item_pending_request.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/item_pending_request.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/layout_activity_pending_request_details.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/layout/activity_pending_request_details.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/xml_backup_rules.xml.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-debug-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yatin/.gradle/daemon/8.13/com.cgal.salesmanagement.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
